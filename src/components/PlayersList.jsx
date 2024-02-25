@@ -3,10 +3,13 @@ import Card from "./Players"
 
 const PlayersList = () => {
   return (
-    <div className='main'>
+    <div className="heading">
+      <h1>FIFA player cards</h1>
+      <div className='main'>
     {players.map(item=>(
   <Card className='card' style={{ width: '18rem', backgroundColor: "silver", borderRadius: "2rem" }} key={item.id} item={item}/>
     ))}
+    </div>
   </div>
   );
 }
