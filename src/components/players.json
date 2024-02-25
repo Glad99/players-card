@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "team": "Paris Saint-Germain",
+      "position": "Forward",
+      "nationality": "Argentina",
+      "age": 35,
+      "rating": 94,
+      "image": "https://res.cloudinary.com/doyqveod1/image/upload/v1708884508/react/download_jozmcy.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "team": "Manchester United",
+      "position": "Forward",
+      "nationality": "Portugal",
+      "age": 38,
+      "rating": 93,
+      "image": "https://res.cloudinary.com/doyqveod1/image/upload/v1708884620/react/download_sygxcz.webp"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr.",
+      "team": "Paris Saint-Germain",
+      "position": "Forward",
+      "nationality": "Brazil",
+      "age": 30,
+      "rating": 92,
+      "image": "https://res.cloudinary.com/doyqveod1/image/upload/v1708884684/react/download_qrclfu.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kevin De Bruyne",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "nationality": "Belgium",
+      "age": 30,
+      "rating": 91,
+      "image": "https://res.cloudinary.com/doyqveod1/image/upload/v1708885067/react/download_lzlzhh.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Virgil van Dijk",
+      "team": "Liverpool",
+      "position": "Defender",
+      "nationality": "Netherlands",
+      "age": 31,
+      "rating": 90,
+      "image": "https://res.cloudinary.com/doyqveod1/image/upload/v1708884941/react/download_dq7pal.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kylian Mbappé",
+      "team": "Paris Saint-Germain",
+      "position": "Forward",
+      "nationality": "France",
+      "age": 23,
+      "rating": 91,
+      "image": "https://res.cloudinary.com/doyqveod1/image/upload/v1708885005/react/download_zwpkyx.jpg"
+    }
+  ]

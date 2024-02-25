@@ -1,0 +1,44 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  padding: 2rem;
+}
+.image{
+  height: 10rem;
+  width: 10rem;
+  margin: auto ;
+  display: block;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+}
+.body{
+  margin: 1rem;
+  margin-top: 1rem;
+  letter-spacing: 1px;
+  line-height: 1.5rem;
+}
+.container{
+  background-color: silver;
+  border-radius: 2rem;
+  display: flex;
+  padding: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+  width: 4rem;
+  height: 2rem;
+  border-radius: 0.5rem;
+  background-color: lightblue;
+  color: white;
+  font-weight: bold;
+  margin: auto;
+  display: block;
+  border: none;
+}
