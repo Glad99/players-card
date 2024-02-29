@@ -9,11 +9,10 @@ function Players({item}) {
     <div className='container' key={item.id}>
       <Card.Img className='image' variant="top"  src={item.image}/>
       <Card.Body className='body'>
-        <Card.Title><b>Name: </b>{item.name}</Card.Title>
-        <Card.Text>
+        <Card.Title className='name'><b>Name: </b>{item.name}</Card.Title>
+        <Card.Text className='text'>
         <b>Age: </b>{item.age} <br/> <b>Team: </b>{item.team} <br/> <b>Position: </b>{item.position} <br/> <b>Nationality: </b> {item.nationality} <br/> <b>Rating: </b>{item.rating}
         </Card.Text>
-        <Button variant="primary" className='btn'>Click</Button>
       </Card.Body>
     </div>
   );
